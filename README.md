@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, I'm Pulkit Gehlot!</h1>
-<h3 align="center">Join me on a journey to discover the magic of AI and explore the limitless possibilities of this amazing technology. Let's collaborate and create something extraordinary with the power of AI!</h3>
+[![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+there!+%F0%9F%91%8B;This+is+Pulkit+Gehot;Nice+to+meet+you!)]
+<h3 align="Left">Join me on a journey to discover the magic of AI and explore the limitless possibilities of this amazing technology. Let's collaborate and create something extraordinary with the power of AI!</h3>
 
 <br/>
 
@@ -82,9 +82,9 @@
 
 </details>
 <details><summary>Certifications</summary>
- ✔️ Machine Learning by stanford ( Andrew Ng ) <br>
- ✔️ Deep Learning Specialization by Andrew Ng <br>
- ✔️ SQL for Data Science <br>
+ ✔️ Digital Skills:Artificial Intelligence by Accenture <br>
+ ✔️ Digital Skills:User Experience by Accenture <br>
+ ✔️ Entrepreneurship Developement Course by CRCE, Jain Incubator <br>
  ✔️ DeepLearning.AI TensorFlow Developer <br>
  ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
  ✔️ AI for Medicine Specialization - DeepLearning.AI  
