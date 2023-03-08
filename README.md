@@ -158,9 +158,8 @@ C                        2 repos             █░░░░░░░░░░�
 </details>
 <br/>
 <a href="https://github.com/jdranpariya" >
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PulkitGehlot81&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="Pulkit Gehlot" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitGehlot81&theme=default&hide_border=false" alt="Pulkit Gehlot" />
 <br/>
-  
 
 ## 📫 Reach me at:
 
