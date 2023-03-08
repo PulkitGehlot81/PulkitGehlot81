@@ -85,7 +85,7 @@
  ✔️ Digital Skills:Artificial Intelligence by Accenture <br>
  ✔️ Digital Skills:User Experience by Accenture <br>
  ✔️ Entrepreneurship Developement Course by CRCE, Jain Incubator <br>
- ✔️ DeepLearning.AI TensorFlow Developer <br>
+ ✔️ Machine Learning with Python by FreeCodecamp <br>
  ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
  ✔️ AI for Medicine Specialization - DeepLearning.AI  
 </details>
