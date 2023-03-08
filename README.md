@@ -13,7 +13,7 @@
 - 👨‍💻 Some of my projects are available at [Github](https://github.com/PulkitGehlot81)
 
 - 💬 Willing to help out! 
- @Discord JDRanpariya#8897
+ @Discord Pulkit Gehlot#2924
  
 - Hire Me [Resume](https://drive.google.com/file/d/1750qZBaUPsn-EvvviC3XSTaCnhfStzr2/view?usp=sharing) - [Visual Resume](https://drive.google.com/file/d/1JzQ3LIzFY1wsl1I1CYxBBn7L98hJyWYy/view?usp=sharing)
 
