@@ -89,98 +89,16 @@
  ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
  ✔️ AI for Medicine Specialization - DeepLearning.AI  
 </details>
-<details><summary>Show coding stats</summary>
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 458 Contributions in the Year 2021
- > 
-> 📦 27.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
-```text
-🌞 Morning    168 commits    ███████░░░░░░░░░░░░░░░░░░   29.12% 
-🌆 Daytime    304 commits    █████████████░░░░░░░░░░░░   52.69% 
-🌃 Evening    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
-Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Wednesday    99 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-Thursday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
-Friday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.82%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-💬 Programming Languages: 
-No Activity Tracked This Week
-🔥 Editors: 
-No Activity Tracked This Week
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/JDRanpariya/JDRanpariya/main/charts/bar_graph.png) 
-
-
- Last Updated on 23/09/2021
-<!--END_SECTION:waka-->
-</details>
 <br/>
-<a href="https://github.com/jdranpariya" >
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitGehlot81&theme=default&hide_border=false" alt="Pulkit Gehlot" />
+ <a href="https://github.com/PulkitGehlot81" >
+  <img height="180em" src="https://streak-stats.demolab.com?user=PulkitGehlot81&border_radius=3&border=AF52DE&ring=AF52DE&fire=AF52DE&currStreakLabel=AF52DE" alt="Pulkit Gehlot" />
+ </a>
 <br/>
 
 ## 📫 Reach me at:
+ 
+[![Gmail Badge](https://img.shields.io/badge/-k.pulkitgehlot@gmail.com-af52de?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:k.pulkitgehlot@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Pulkit%20Gehlot-af52de?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pulkit-gehlot-53a657190 "Connect on LinkedIn")
+[![Discord Badge](https://img.shields.io/badge/-Discord-af52de?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/jBc83Fmkm4 "Contact on Discord")
 
-<p align="left">
-<a href="https://twitter.com/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Pulkit Gehlot"  /></a>
-<a href="https://www.linkedin.com/in/jaydeepkumar-ranpariya-4001a5158/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jdranpariya"  /></a>
-<a href="https://kaggle.com/jdranpariya" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="jdranpariya"/></a>
- <a href="mailto:jdpatel.code@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jdranpariya"  /></a>
-</p>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-JDRanpariya/README.md at main · JDRanpariya/JDRanpariya · GitHub 
