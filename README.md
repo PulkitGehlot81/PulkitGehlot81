@@ -1,5 +1,5 @@
-![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+there!+%F0%9F%91%8B;This+is+Pulkit+Gehot;Nice+to+meet+you!)
-<h3 align="Left">Join me on a journey to discover the magic of AI and explore the limitless possibilities of this amazing technology. Let's collaborate and create something extraordinary with the power of AI!</h3>
+![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+Geeks!+%F0%9F%91%8B;Nice+to+meet+you!)
+<h3 align="Left">I'm Pulkit Gehlot, a computer science and engineering student who's passionate about artificial intelligence. I love using Python to craft applications with exceptional user interfaces that provide an unparalleled experience. My insatiable desire to explore the wonders of AI drives me to unleash its transformative power every single day, resulting in incredible outcomes that never cease to amaze me!</h3>
 
 <br/>
 🤝 I'm seeking a partnership to make a significant impact<br>
