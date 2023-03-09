@@ -99,6 +99,6 @@
 ## 📫 Reach me at:
  
 [![Gmail Badge](https://img.shields.io/badge/-k.pulkitgehlot@gmail.com-af52de?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:k.pulkitgehlot@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Pulkit%20Gehlot-af52de?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pulkit-gehlot-53a657190 "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Pulkit%20Gehlot-af52de?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pulkit-gehlot"Connect on LinkedIn")
 [![Discord Badge](https://img.shields.io/badge/-Discord-af52de?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/jBc83Fmkm4 "Contact on Discord")
 
