@@ -1,25 +1,36 @@
-[![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+there!+%F0%9F%91%8B;This+is+Pulkit+Gehot;Nice+to+meet+you!)]
+![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+there!+%F0%9F%91%8B;This+is+Pulkit+Gehot;Nice+to+meet+you!)
 <h3 align="Left">Join me on a journey to discover the magic of AI and explore the limitless possibilities of this amazing technology. Let's collaborate and create something extraordinary with the power of AI!</h3>
 
 <br/>
+🤝 I'm seeking a partnership to make a significant impact<br>
 
+💻 You can find some of my projects on [GitHub](https://github.com/PulkitGehlot81) <br>
+💬 Ready and willing to assist! @Discord Pulkit Gehlot#2924 <br>
+📥 Hire Me [Resume](https://drive.google.com/file/d/1750qZBaUPsn-EvvviC3XSTaCnhfStzr2/view?usp=sharing) - [Visual Resume](https://drive.google.com/file/d/1JzQ3LIzFY1wsl1I1CYxBBn7L98hJyWYy/view?usp=sharing)
 
-- 🔭 I’m currently working on **Setting up Now Page**
+<br>
 
-- 🌱 I’m currently learning **AI, Unix**
-
-- 👯 I’m looking to collaborate on **Cog Sci Research Projects**
-
-- 👨‍💻 Some of my projects are available at [Github](https://github.com/PulkitGehlot81)
-
-- 💬 Willing to help out! 
- @Discord Pulkit Gehlot#2924
- 
-- Hire Me [Resume](https://drive.google.com/file/d/1750qZBaUPsn-EvvviC3XSTaCnhfStzr2/view?usp=sharing) - [Visual Resume](https://drive.google.com/file/d/1JzQ3LIzFY1wsl1I1CYxBBn7L98hJyWYy/view?usp=sharing)
+> 🧔In a single line, capture my essence <br><br> With a big imagination and a desire to create a world like that of Marvel's, I am also a curious explorer who enjoys cooking, traveling, and music. 
 
 <br />
 <details><summary>Skills</summary>
-  
+
+### Python Libraries & Framework
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23654FF0.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+ 
 ### Designer
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -37,22 +48,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-### Python Libraries & Framework
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-
 ### Cloud Platforms & IDE
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
@@ -65,7 +60,7 @@
 ## Tech I've worked with: 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,9 +69,9 @@
 
 ## I'm looking forward to 
 ![Rust](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GO](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-blue)
-![Progressive Web App](https://img.shields.io/badge/-Progressive Web App-blue)
+![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-blue?style=for-the-badge)
+![Progressive Web App](https://img.shields.io/badge/-Progressive%20Web%20App-blue?style=for-the-badge)
 
 
 
@@ -86,8 +81,13 @@
  ✔️ Digital Skills:User Experience by Accenture <br>
  ✔️ Entrepreneurship Developement Course by CRCE, Jain Incubator <br>
  ✔️ Machine Learning with Python by FreeCodecamp <br>
- ✔️ TensorFlow: Data and Deployment Specialization - DeepLearning.AI <br>
- ✔️ AI for Medicine Specialization - DeepLearning.AI  
+ ✔️ Change Leadership Developing: Strategic Gap Analysis in Miro <br>
+ ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
+ ✔️ Semantic Segmentation with Amazon Sagemaker  <br>
+ ✔️ Google Developer Student Club Core Team Member  <br>
+ ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
+ ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
+ 
 </details>
 
 <br/>
