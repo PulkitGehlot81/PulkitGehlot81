@@ -1,5 +1,5 @@
 ![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+Geeks!+%F0%9F%91%8B;Nice+to+meet+you!)
-<h3 align="Left">I'm Pulkit Gehlot, a computer science and engineering student who's passionate about artificial intelligence. I love using Python to craft applications with exceptional user interfaces that provide an unparalleled experience. My insatiable desire to explore the wonders of AI drives me to unleash its transformative power every single day, resulting in incredible outcomes that never cease to amaze me!</h3>
+<h3 align="Left">I'm Pulkit Gehlot, a computer science and Technology student passionate about artificial intelligence. I craft seamless user experience apps using Python and constantly explore ways to unleash AI's transformative power. I'm eager to contribute to AI development and always seeking to learn and grow. Let's collaborate and create innovative AI solutions to change the world.</h3>
 
 <br/>
 🤝 I'm seeking a partnership to make a significant impact<br>
@@ -95,7 +95,7 @@
 <br/>
 
 ## 📫 Reach me at:
- 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pulkit-gehlot.super.site/) 
 [![Gmail Badge](https://img.shields.io/badge/-k.pulkitgehlot@gmail.com-af52de?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:k.pulkitgehlot@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Pulkit%20Gehlot-af52de?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pulkit-gehlot "Connect on LinkedIn")
 [![Discord Badge](https://img.shields.io/badge/-Discord-af52de?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/jBc83Fmkm4 "Contact on Discord")
