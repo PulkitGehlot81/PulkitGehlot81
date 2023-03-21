@@ -95,7 +95,7 @@
 <br/>
 
 ## 📫 Reach me at:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#af52de)](https://pulkit-gehlot.super.site/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-af52de.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pulkit-gehlot.super.site/) 
 [![Gmail Badge](https://img.shields.io/badge/-k.pulkitgehlot@gmail.com-af52de?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:k.pulkitgehlot@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Pulkit%20Gehlot-af52de?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/pulkit-gehlot "Connect on LinkedIn")
 [![Discord Badge](https://img.shields.io/badge/-Discord-af52de?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/jBc83Fmkm4 "Contact on Discord")
