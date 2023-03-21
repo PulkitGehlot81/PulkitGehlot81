@@ -6,7 +6,7 @@
 
 💻 You can find some of my projects on [GitHub](https://github.com/PulkitGehlot81) <br>
 💬 Ready and willing to assist! @Discord Pulkit Gehlot#2924 <br>
-📥 Hire Me [Resume](https://drive.google.com/file/d/1750qZBaUPsn-EvvviC3XSTaCnhfStzr2/view?usp=sharing) - [Visual Resume](https://drive.google.com/file/d/1JzQ3LIzFY1wsl1I1CYxBBn7L98hJyWYy/view?usp=sharing)
+📥 Hire Me [Resume](https://drive.google.com/file/d/1vae0uA7c8ZPVGZ1nGz9v1n97Cg0I06w_/view?usp=sharing)
 
 <br>
 
@@ -59,7 +59,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -82,9 +83,9 @@
  ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
  ✔️ Semantic Segmentation with Amazon Sagemaker  <br>
  ✔️ Google Developer Student Club Core Team Member  <br>
- ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
- ✔️ Business Strategy: Business Model Canvas Analysis with Miro <br>
- 
+ ✔️ Google Foundations of User Experience (UX) Design <br>
+ ✔️ Google Analytics Certification <br>
+
 </details>
 
 <br/>
