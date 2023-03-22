@@ -94,7 +94,8 @@
  </a>
 <br/>
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=total&label=Total&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=daily&label=Daily&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=unique&label=Unique&style=none)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=total&label=Total_Visitors&style=none)
 
 
 ## 📫 Reach me at:
