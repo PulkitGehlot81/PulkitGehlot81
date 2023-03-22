@@ -94,6 +94,9 @@
  </a>
 <br/>
 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=total&label=Total&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=daily&label=Daily&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FPulkitGehlot81&leftColor=000000&rightColor=af52de&type=unique&label=Unique&style=none)
+
+
 ## 📫 Reach me at:
 [![Portfolio](https://img.shields.io/badge/Portfolio-af52de.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pulkit-gehlot.super.site/) 
 [![Gmail Badge](https://img.shields.io/badge/-k.pulkitgehlot@gmail.com-af52de?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:k.pulkitgehlot@gmail.com "Connect via Email")
