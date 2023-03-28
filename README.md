@@ -92,7 +92,7 @@
 
 <br/>
  <a href="https://github.com/PulkitGehlot81" >
-  <img height="180em" src="https://streak-stats.demolab.com?user=PulkitGehlot81&border_radius=3&border=AF52DE&ring=AF52DE&fire=AF52DE&currStreakLabel=AF52DE" alt="Pulkit Gehlot" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=PulkitGehlot81&border_radius=2&border=AF52DE&ring=AF52DE&fire=AF52DE&currStreakLabel=AF52DE" alt="Pulkit Gehlot" />
  </a>
 <br/>
 
