@@ -1,5 +1,5 @@
 ![Greeting](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=33&duration=3000&pause=1000&color=AF52DE&width=435&lines=Hello+Geeks!+%F0%9F%91%8B;Nice+to+meet+you!)
-<h3 align="Left">I'm Pulkit Gehlot, a Computer Science and Technology student passionate about artificial intelligence. I craft seamless user experience apps using Python and constantly explore ways to unleash AI's transformative power. I'm eager to contribute to AI development and always seeking to learn and grow. Let's collaborate and create innovative AI solutions to change the world.</h3>
+<h3 align="Left">Hey there! I'm Pulkit Gehlot, a graduate AI engineer driven by an unwavering passion to push the boundaries of innovation. I believe in creating remarkable solutions that captivate and engage. By combining my expertise in Python programming and design, I seamlessly merge technical excellence with visually captivating elements, resulting in exceptional user experiences. With a strategic mindset and an unwavering commitment to excellence, I consistently deliver impactful results. I stay ahead of industry trends, continuously honing my skills and embracing emerging technologies to ensure future-proof solutions. Let's connect and experience the transformative magic I bring to the table!!!</h3>
 
 
 <br/>
