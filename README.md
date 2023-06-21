@@ -7,7 +7,7 @@
 
 💻 You can find some of my projects on [GitHub](https://github.com/PulkitGehlot81) <br>
 💬 Ready and willing to assist! @Discord Pulkit Gehlot#2924 <br>
-📄 Hire Me [Resume](https://drive.google.com/file/d/1vae0uA7c8ZPVGZ1nGz9v1n97Cg0I06w_/view?usp=sharing)
+📄 Hire Me [Resume](https://drive.google.com/file/d/1fnMUlX-0fDLYQwNgcfH8aUxzX9aREtHc/view?usp=drive_link)
 
 <br>
 
