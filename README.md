@@ -7,8 +7,7 @@
 
 💻 You can find some of my projects on [GitHub](https://github.com/PulkitGehlot81) <br>
 💬 Ready and willing to assist! @Discord Pulkit Gehlot#2924 <br>
-📄 Hire Me [Resume](https://drive.google.com/file/d/1dYZoAEQQOgvOStNchv9mriNpz85JkAPs/view?usp=drive_link)
-
+📄 Hire Me [Resume](https://drive.google.com/file/d/1DUBNh7bV37J4DAn6KOR-hd_lNlehvCgt/view?usp=sharing)
 <br>
 
 > 🧔In a single line, capture my essence <br><br> With a big imagination and a desire to create a world like that of Marvel's, I am also a curious explorer who enjoys cooking, traveling, and music. 
